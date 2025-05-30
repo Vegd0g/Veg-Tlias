@@ -1,0 +1,16 @@
+D:\projects\Java\Tlias\src\main\java\com\vegdog\controller\DeptController.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\controller\EmpController.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\mapper\DeptMapper.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\mapper\EmpExprMapper.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\mapper\EmpMapper.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\Dept.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\Emp.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\EmpExpr.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\EmpQueryParam.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\PageResult.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\pojo\Result.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\service\DeptService.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\service\EmpService.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\service\impl\DeptServiceImpl.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\service\impl\EmpServiceImpl.java
+D:\projects\Java\Tlias\src\main\java\com\vegdog\TliasApplication.java
